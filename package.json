@@ -21,7 +21,7 @@
     "@twind/preset-autoprefix": "^1.0.7",
     "@twind/preset-tailwind": "^1.1.4",
     "antd": "^5.4.7",
-    "axios": "^1.4.0",
+    "axios": "^1.6.0",
     "chokidar": "^3.5.3",
     "clsx": "^2.0.0",
     "common-tags": "^1.8.2",
